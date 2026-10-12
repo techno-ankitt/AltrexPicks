@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": ".venv\\Scripts\\python.exe -m uvicorn api.index:app --reload"
+  }
+}
